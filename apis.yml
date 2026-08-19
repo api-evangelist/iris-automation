@@ -31,7 +31,7 @@ x-status: acquired
 x-acquired-by: uavionix
 x-acquired-date: '2023-11'
 x-website-redirect: https://uavionix.com/uncrewed-aircraft-systems/uas-surveillance/
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
