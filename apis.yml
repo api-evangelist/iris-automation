@@ -54,7 +54,7 @@ tags:
 - UAS
 - Detect And Avoid
 - Collision Avoidance
-- Computer-Vision
+- Computer Vision
 - Aviation
 - BVLOS
 tags_raw:
@@ -67,6 +67,7 @@ tags_raw:
 - Computer Vision
 - Aviation
 - BVLOS
+- Computer-Vision
 apis: []
 maintainers:
 - FN: Kin Lane
